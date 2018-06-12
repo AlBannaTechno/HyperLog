@@ -1,0 +1,2 @@
+# HyperLog
+Advanced JavaScript Logger
